@@ -1,0 +1,20 @@
+#one {
+    background-color: #d63031;
+    margin: 0 auto;
+    padding-top: 30px;
+    color: white;
+
+
+}
+h5{
+    color: white;
+
+}
+#cadre {
+
+    width: 300px;
+  height: 300px;
+  position: relative;
+  top: -50vh;
+  left: 20vw;
+}
